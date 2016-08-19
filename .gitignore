@@ -1,0 +1,11 @@
+
+.idea/*
+dist/*
+
+.idea/vcs.xml
+
+savemd.egg-info/*
+
+*.pyc
+
+build/*
